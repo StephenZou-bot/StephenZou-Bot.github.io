@@ -1,0 +1,8 @@
+// 参考 https://chaooo.github.io/article/20161109.html
+let searchData;function loadData(e){if(searchData)searchkey(e);else{const t=new XMLHttpRequest;t.open("GET","/content.json",!0),t.onload=function(){if(this.status>=200&&this.status<300){const t=JSON.parse(this.response||this.responseText);searchData=t instanceof Array?t:t.posts,searchkey(e)}else console.error(statusText)},t.onerror=function(){console.error(statusText)},t.send()}}function searchkey(e){e.forEach((e=>{searchData.forEach((t=>{const s={},a=new RegExp(e,"g");let n=!1;-1!==t.title.search(a)&&(s.title=t.title.replace(a,`<span class="keyword">${e}</span>`),n=!0);const o=t.text.search(a);-1!==o&&(s.text=`…${t.text.substring(o,o+18)}…`,s.text=s.text.replace(a,`<span class="keyword">${e}</span>`),n=!0),n&&(s.title=s.title?s.title:t.title,s.text=s.text?s.text:t.text,s.href=`/${t.path}`,render(s))}))}))}function render(e){const t=document.createElement("div");t.className="search-result",t.innerHTML=`<a href=${e.href}><h3>${e.title}</h3>\n    <span class="content">${e.text}<br>　</span></a>`,document.getElementsByClassName("search-body")[0].appendChild(t)}
+// 主程序
+const key=decodeURI(location.search.split("?q=")[1]);
+// 事件
+function sclose(){document.getElementById("nexmoe-search-space").style.display="none"}function sinput(){document.getElementsByClassName("search-body")[0].innerHTML="",loadData(format(document.getElementsByClassName("search-input")[0].value))}
+// 搜索词格式化
+function format(e){return e.replace(/[ ]/g,"").split(" ")}void 0!==key&&"undefined"!==key&&(document.getElementsByClassName("search-input")[0].value=key,loadData(format(key)),document.getElementById("nexmoe-search-space").style.display="flex");
