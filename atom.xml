@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-23T12:47:02.194Z</updated>
+  <updated>2024-07-24T13:09:16.671Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-7-24</title>
+    <link href="http://example.com/2024/07/24/2024-7-24/"/>
+    <id>http://example.com/2024/07/24/2024-7-24/</id>
+    <published>2024-07-24T13:00:33.000Z</published>
+    <updated>2024-07-24T13:09:16.671Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>白费劲，折腾了这么久，下载到网盘不行，移动到网盘也不行，give up!买移动硬盘吧！</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>今天粉笔刷题做资料分析，全是计算量巨大的，真的麻了，把速算练起来。今天下单了申论答题卡，过两天开始练习申论吧。</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>白嫖了一年硅云域名，明天把他弄到cf上。今天不弄了，主要折腾累了（）,其实就是懒得弄。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h2&gt;&lt;p&gt;白费劲，折腾了这么久，下载到网盘不行，移动到网盘也不行，give up!买移动硬盘吧！&lt;/p&gt;
+&lt;h2 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; cl</summary>
+      
+    
+    
+    
+    <category term="随便写写" scheme="http://example.com/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-7-23</title>
