@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-24T13:09:16.671Z</updated>
+  <updated>2024-07-26T12:13:30.320Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-7-26</title>
+    <link href="http://example.com/2024/07/26/2024-7-26/"/>
+    <id>http://example.com/2024/07/26/2024-7-26/</id>
+    <published>2024-07-26T12:01:47.000Z</published>
+    <updated>2024-07-26T12:13:30.320Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>找到了一个新方法来上传文件，利用docker使用vnc安装客户端然后就可以了，但是它tnnd,115取消了linux的客户端，然后使用了百度网盘，还花了18大洋开了超级会员，问就是百度上传数量有限制（）。</p><p>参照项目<a href="https://github.com/YuCat-OVO/BaiduNetdisk-Docker">https://github.com/YuCat-OVO/BaiduNetdisk-Docker</a></p><p>115,fuck you!</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>久违的下雨了，今天图书馆人也好少，明天申论答题卡就到了，正好明天一套模拟测试，一套申论。</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>学校的救济粮的要到9,10月开学才能到（大嘘）。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h2&gt;&lt;p&gt;找到了一个新方法来上传文件，利用docker使用vnc安装客户端然后就可以了，但是它tnnd,115取消了linux的客户端，然后使用了百度网盘，还</summary>
+      
+    
+    
+    
+    <category term="随便写写" scheme="http://example.com/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-7-24</title>
