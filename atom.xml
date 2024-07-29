@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-29T14:08:28.628Z</updated>
+  <updated>2024-07-29T14:12:04.939Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/07/29/2024-7-29/"/>
     <id>http://example.com/2024/07/29/2024-7-29/</id>
     <published>2024-07-29T14:02:56.000Z</published>
-    <updated>2024-07-29T14:08:28.628Z</updated>
+    <updated>2024-07-29T14:12:04.939Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>发现一个事情，Comfyui的工作流很多插件已更新就无法使用，就很无语。折腾半天安装插件下载模型然后得重新配工作流。</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>今天kaggle账号被封了，疑似是下载了某些特定模型例如facefusion，因为我一旦下载就停止了notebook。</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>到今天为止，申论还没开始写。。。</p><p>然后速算也提升不大，希望慢慢练能熟能生巧，争取资料分析20分钟左右。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>发现一个事情，Comfyui的工作流很多插件已更新就无法使用，就很无语。折腾半天安装插件下载模型然后得重新配工作流。</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>今天kaggle账号被封了，疑似是下载了某些特定模型例如facefusion，因为我一旦下载就停止了notebook。</p><p>草，又被封了(),果然是这个b模型。</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>到今天为止，申论还没开始写。。。</p><p>然后速算也提升不大，希望慢慢练能熟能生巧，争取资料分析20分钟左右。</p>]]></content>
     
     
       
