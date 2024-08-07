@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-02T11:36:50.448Z</updated>
+  <updated>2024-08-07T12:46:54.794Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-8-7</title>
+    <link href="http://example.com/2024/08/07/2024-8-7/"/>
+    <id>http://example.com/2024/08/07/2024-8-7/</id>
+    <published>2024-08-07T12:42:06.000Z</published>
+    <updated>2024-08-07T12:46:54.794Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>资料分析最近速度一直保持在30min,但准确率始终不满意，不是看错数字就是其他奇奇怪怪的原因导致拿不到高分。</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>折腾了两天在docker中实现gui环境和cuda,反而还导致账号被封了，郁闷。</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>周五去吃高中同学的升学宴，读了两年然后退学复读上了新疆大学。震惊和感慨!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h2&gt;&lt;p&gt;资料分析最近速度一直保持在30min,但准确率始终不满意，不是看错数字就是其他奇奇怪怪的原因导致拿不到高分。&lt;/p&gt;
+&lt;h2 id=&quot;2&quot;&gt;&lt;a h</summary>
+      
+    
+    
+    
+    <category term="随便写写" scheme="http://example.com/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-8-2</title>
