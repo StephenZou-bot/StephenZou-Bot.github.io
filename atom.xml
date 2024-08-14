@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-07T12:46:54.794Z</updated>
+  <updated>2024-08-14T12:58:52.404Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-8-14</title>
+    <link href="http://example.com/2024/08/14/2024-8-14/"/>
+    <id>http://example.com/2024/08/14/2024-8-14/</id>
+    <published>2024-08-14T12:53:10.000Z</published>
+    <updated>2024-08-14T12:58:52.404Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。<br>##<br>Openxlab上申请的A10显卡一直没用，找个时间把它用上吧()<br>##<br>最近干活发现手起茧子了,看来我的手还是挺脆弱的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。&lt;br&gt;##&lt;br&gt;Openxlab上申请的</summary>
+      
+    
+    
+    
+    <category term="随便写写" scheme="http://example.com/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-8-7</title>
