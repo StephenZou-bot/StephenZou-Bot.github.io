@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-14T12:58:52.404Z</updated>
+  <updated>2024-08-15T01:43:13.032Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://example.com/2024/08/14/2024-8-14/"/>
     <id>http://example.com/2024/08/14/2024-8-14/</id>
     <published>2024-08-14T12:53:10.000Z</published>
-    <updated>2024-08-14T12:58:52.404Z</updated>
+    <updated>2024-08-15T01:43:13.032Z</updated>
     
-    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。<br>##<br>Openxlab上申请的A10显卡一直没用，找个时间把它用上吧()<br>##<br>最近干活发现手起茧子了,看来我的手还是挺脆弱的。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。</p><h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2><p>Openxlab上申请的A10显卡一直没用，找个时间把它用上吧()。</p><h2 id="-2"><a href="#-2" class="headerlink" title=""></a></h2><p>最近干活发现手起茧子了,看来我的手还是挺脆弱的。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。&lt;br&gt;##&lt;br&gt;Openxlab上申请的</summary>
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;资料分析的成效出来了，最近速度保持在20min左右。申论已经两个礼拜没动了，最近的目标就设置成加强言语和数量吧。&lt;/p&gt;
+&lt;h2 id=&quot;-1&quot;&gt;&lt;a hr</summary>
       
     
     
